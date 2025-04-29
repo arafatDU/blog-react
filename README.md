@@ -5,7 +5,7 @@ A ReactJS blog application with Appwrite.
 
 ### 0. Requirements
 
-The application uses ReacJS for the frontend and Appwrite as Backend.
+This Blog application uses ReacJS for the frontend and Appwrite as Backend.
 Make sure You have Node JS installed on your PC.
 
 
