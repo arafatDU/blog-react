@@ -1,5 +1,5 @@
 # Blog-React
-A ReactJS blog application with Appwrite.
+A ReactJS Blog application with Appwrite.
 
 ## Running Locally
 
