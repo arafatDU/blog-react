@@ -24,7 +24,6 @@ Ensure you have the following installed on your system:
 
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - [Appwrite](https://appwrite.io/) backend configured
-- A modern web browser
 
 ---
 
